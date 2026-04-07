@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+checkpoints/
+part-1/out/
+part-1/out_augmented/
+records/*.pkl
+results/*.sql
+part-2/data/
+*.zip
+*.safetensors
+*.pt
+*.bin
